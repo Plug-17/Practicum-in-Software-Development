@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "01417322",
+      "Subname": "Basic Linear Algebra",
+      "credit": 3,
+      "grade": "D+"
+    },
+    {
+      "id": "01418111",
+      "Subname": "Introduction to Computer",
+      "credit": "3",
+      "grade": "C"
+    },
+    {
+      "id": "01355101",
+      "Subname": "English for Everyday Life",
+      "credit": 3,
+      "grade": "B"
+    },
+    {
+      "id": "01418223",
+      "Subname": "Data Science and Application Programs",
+      "credit": 3,
+      "grade": "B+"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

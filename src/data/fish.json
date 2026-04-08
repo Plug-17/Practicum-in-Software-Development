@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "name": "ชินวัตร กลิ่นนาค",
+    "passnisit": "6730200464",
+    "faculty": "วิทยาศาสตร์ ศรีราชา",
+    "majorName": "วิทยากาาคอมพิวเตอร์",
+    "major": "S05",
+    "Hihgschool": "โรงเรียนมารีวิทย์บ่อวิน"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
